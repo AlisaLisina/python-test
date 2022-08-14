@@ -1,2 +1,24 @@
-x = 5 
-print(x)
+BASIC CONCEPTS 
+
+#1.1 
+print('Hello, world!') # in output we have 'Hello, world!'
+
+print('Hello, world!')
+print('Hello, world!')
+print('Spam and eggs...')  # in output we have 3 rows 
+
+#1.2
+print("Python is fun") # you can use both "" and '' quotes 
+
+#2.1 
+print(2 + 2)     # 4
+print(5 + 4 - 3) # 6
+print(1 + 2 + 3) # 6
+print(2 * (3 + 4))  # 14
+print(10/2) #5
+print((4+8)/2) # 6.0, because in Python 3 it shows float value and in earlier versions it shows int 6
+
+#2.2 
+print(68*2) # it`s nessecary to calculate amount of scoops of ice cream. Each child should get 2 scoops
+
+
